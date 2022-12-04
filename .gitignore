@@ -1,0 +1,5 @@
+node_modules
+docs/.docusaurus
+docs/build
+functional_tests/tests.log
+.vscode
